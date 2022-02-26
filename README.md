@@ -1,4 +1,4 @@
-# HP400G7-OpenCore-Hackintosh [Hoangvupc.xyz](https://hoangvupc.com/)
+# HP400G7-OpenCore-Hackintosh [Hoangvupc.com](https://hoangvupc.com/)
 <img align="right" src="https://support.hp.com/doc-images/521/c06706206.jpg" alt="T480 macOS" width="1000">
 
 
